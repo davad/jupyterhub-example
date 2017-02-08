@@ -14,6 +14,7 @@ the following commands:
 
 ```
 make
+make notebook_image
 docker-compose up
 ```
 
